@@ -1,3 +1,4 @@
+```SIMPLY CALCULATES NO. OF DAYS AND MONTHS FOR YOUR PROVIDED AGE`
 import time
 from calendar import isleap
 
@@ -47,3 +48,5 @@ day = day + localtime.tm_mday
 print("%s's age is %d years or " % (name, year), end="")
 print("%d months or %d days" % (month, day))
 #sunny_kumar
+
+
