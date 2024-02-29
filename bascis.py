@@ -1,3 +1,4 @@
 print('hello')
-enter=input("enter any thing you wish")
-print(enter)
+print("enter any thing you wish")
+enter=input()
+print("hello: " str(enter))
